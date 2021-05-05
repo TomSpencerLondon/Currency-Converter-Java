@@ -22,21 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8506b776-6a4a-4f25-a80c-289558615c35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Currency-Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codurance/com/codurance/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codurance/com/codurance/MoneyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeapYearOverview.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codurance/Year.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/codurance/YearShould.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8506b776-6a4a-4f25-a80c-289558615c35" name="Default Changelist" comment="Add code for Currency Converter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +81,11 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/codurance" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
   </component>
   <component name="RunManager" selected="JUnit.MoneyTest.convert_DOLLAR_TO_EURO">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -173,7 +164,23 @@
       <updated>1620194041408</updated>
       <workItem from="1620194043088" duration="168000" />
       <workItem from="1620194238636" duration="1395000" />
+      <workItem from="1620195703655" duration="356000" />
     </task>
+    <task id="LOCAL-00001" summary="Add code for Currency Converter">
+      <created>1620195964663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620195964663</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add code for Currency Converter">
+      <created>1620195972138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620195972138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add code for Currency Converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code for Currency Converter" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="208" y="31" key="#Project_Structure" timestamp="1620195580489">
       <screen x="0" y="0" width="1440" height="900" />
@@ -204,6 +215,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="490" y="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1620195123583" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1620196000127">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620196000127" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1620196000126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620196000126" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1620196000125">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620196000125" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1620196000126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620196000126" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1620195637143">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -220,6 +247,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="499" y="270" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1620195254925" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1620195715878">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1620195715878" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1620194289253">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
