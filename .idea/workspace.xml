@@ -9,20 +9,13 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8506b776-6a4a-4f25-a80c-289558615c35" name="Default Changelist" comment="Add code for Currency Converter" />
+    <list default="true" id="8506b776-6a4a-4f25-a80c-289558615c35" name="Default Changelist" comment="Add code for Currency Converter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +157,7 @@
       <updated>1620194041408</updated>
       <workItem from="1620194043088" duration="168000" />
       <workItem from="1620194238636" duration="1395000" />
-      <workItem from="1620195703655" duration="356000" />
+      <workItem from="1620195703655" duration="432000" />
     </task>
     <task id="LOCAL-00001" summary="Add code for Currency Converter">
       <created>1620195964663</created>
@@ -215,22 +208,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="490" y="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1620195123583" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1620196000127">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1620196136147">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620196000127" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1620196000126">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620196136147" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1620196136146">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620196000126" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1620196000125">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620196136146" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1620196136145">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620196000125" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1620196000126">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620196136145" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1620196136147">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620196000126" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620196136147" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1620195637143">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
